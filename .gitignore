@@ -1,0 +1,20 @@
+# Maven build folder
+target/
+
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA settings
+.idea/
+
+# Eclipse settings
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
